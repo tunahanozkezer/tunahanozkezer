@@ -4,7 +4,9 @@ Hi 👋 My name is Tunahan Özkezer
 Embedded Software Engineer, Developer
 -------------------------------------
 
-I'm currently working on Real-Time embedded systems. I'm addicted to C and C++ I'm also love design and review hardware
+I'm currently working on Real-Time embedded systems. 
+I'm addicted to C and C++ 
+I'm also love design and review hardware.
 
 *   🌍  I'm based in Istanbul, Turkiye
 *   ✉️  You can contact me at [tunahanozkezer@gmail.com](mailto:tunahanozkezer@gmail.com)
